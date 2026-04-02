@@ -1,0 +1,10 @@
+metric,value
+rows_raw,9581
+rows_clean,9581
+unique_destinations,233
+unique_origins,234
+unique_pairs,9581
+years,8
+nonzero_edges,70842
+missing_destination_codes,0
+missing_origin_codes,0
