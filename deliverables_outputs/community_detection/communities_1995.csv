@@ -1,0 +1,235 @@
+year,country,community
+1995,Afghanistan,0
+1995,Iran (Islamic Republic of),0
+1995,Iraq,0
+1995,American Samoa*,1
+1995,Anguilla*,1
+1995,Antigua and Barbuda,1
+1995,Aruba*,1
+1995,Australia*,1
+1995,Bahamas,1
+1995,Barbados,1
+1995,Belize,1
+1995,Bermuda*,1
+1995,British Virgin Islands*,1
+1995,Cambodia,1
+1995,Canada,1
+1995,Cayman Islands*,1
+1995,Channel Islands*,1
+1995,China,1
+1995,"China, Hong Kong SAR",1
+1995,"China, Macao SAR",1
+1995,"China, Taiwan Province of China",1
+1995,Cook Islands*,1
+1995,Cuba,1
+1995,Curaçao*,1
+1995,Cyprus,1
+1995,Dem. People's Republic of Korea,1
+1995,Dominica,1
+1995,Dominican Republic,1
+1995,Egypt,1
+1995,El Salvador,1
+1995,Fiji,1
+1995,Gibraltar*,1
+1995,Grenada,1
+1995,Guam*,1
+1995,Guatemala,1
+1995,Guyana,1
+1995,Haiti,1
+1995,Honduras,1
+1995,Ireland,1
+1995,Isle of Man*,1
+1995,Jamaica,1
+1995,Japan,1
+1995,Kiribati,1
+1995,Lao People's Democratic Republic,1
+1995,Lebanon,1
+1995,Malta,1
+1995,Marshall Islands,1
+1995,Mexico,1
+1995,Montserrat*,1
+1995,Nauru,1
+1995,New Zealand*,1
+1995,Niue*,1
+1995,Northern Mariana Islands*,1
+1995,Palau,1
+1995,Panama,1
+1995,Papua New Guinea,1
+1995,Peru,1
+1995,Philippines,1
+1995,Puerto Rico*,1
+1995,Republic of Korea,1
+1995,Saint Helena,1
+1995,Saint Kitts and Nevis,1
+1995,Saint Lucia,1
+1995,Saint Vincent and the Grenadines,1
+1995,Samoa,1
+1995,Singapore,1
+1995,Sint Maarten (Dutch part)*,1
+1995,Solomon Islands,1
+1995,Thailand,1
+1995,Tokelau*,1
+1995,Tonga,1
+1995,Trinidad and Tobago,1
+1995,Turks and Caicos Islands*,1
+1995,Tuvalu,1
+1995,United Kingdom*,1
+1995,United States Virgin Islands*,1
+1995,United States of America*,1
+1995,Viet Nam,1
+1995,Albania,2
+1995,Austria,2
+1995,"Bonaire, Sint Eustatius and Saba*",2
+1995,Bosnia and Herzegovina,2
+1995,Costa Rica,2
+1995,Croatia,2
+1995,Czechia,2
+1995,Denmark*,2
+1995,Ecuador,2
+1995,Faroe Islands*,2
+1995,Finland*,2
+1995,Germany,2
+1995,Greece,2
+1995,Greenland*,2
+1995,Holy See*,2
+1995,Hungary,2
+1995,Iceland,2
+1995,Micronesia (Fed. States of),2
+1995,Montenegro,2
+1995,Netherlands*,2
+1995,Nicaragua,2
+1995,North Macedonia,2
+1995,Norway*,2
+1995,Others,2
+1995,Poland,2
+1995,Romania,2
+1995,Serbia*,2
+1995,Slovakia,2
+1995,Slovenia,2
+1995,South Sudan,2
+1995,Suriname,2
+1995,Sweden,2
+1995,Syrian Arab Republic,2
+1995,Türkiye,2
+1995,Armenia,3
+1995,Azerbaijan,3
+1995,Belarus,3
+1995,Bulgaria,3
+1995,Estonia,3
+1995,Georgia,3
+1995,Israel,3
+1995,Kazakhstan,3
+1995,Kyrgyzstan,3
+1995,Latvia,3
+1995,Lithuania,3
+1995,Mongolia,3
+1995,Republic of Moldova*,3
+1995,Russian Federation,3
+1995,Tajikistan,3
+1995,Turkmenistan,3
+1995,Ukraine*,3
+1995,Uzbekistan,3
+1995,Bahrain,4
+1995,Bangladesh,4
+1995,Bhutan,4
+1995,Brunei Darussalam,4
+1995,India,4
+1995,Indonesia,4
+1995,Jordan,4
+1995,Kuwait,4
+1995,Libya,4
+1995,Malaysia,4
+1995,Maldives,4
+1995,Myanmar,4
+1995,Nepal,4
+1995,Oman,4
+1995,Pakistan,4
+1995,Qatar,4
+1995,Saudi Arabia,4
+1995,Sri Lanka,4
+1995,State of Palestine,4
+1995,Timor-Leste,4
+1995,United Arab Emirates,4
+1995,Yemen,4
+1995,Algeria,5
+1995,Andorra,5
+1995,Angola,5
+1995,Argentina,5
+1995,Belgium,5
+1995,Bolivia (Plurinational State of),5
+1995,Brazil,5
+1995,Cabo Verde,5
+1995,Chile,5
+1995,Colombia,5
+1995,Comoros,5
+1995,Eritrea,5
+1995,Falkland Islands (Malvinas)*,5
+1995,France*,5
+1995,French Guiana*,5
+1995,French Polynesia*,5
+1995,Gambia,5
+1995,Guadeloupe*,5
+1995,Guinea-Bissau,5
+1995,Italy,5
+1995,Liechtenstein,5
+1995,Luxembourg,5
+1995,Madagascar,5
+1995,Martinique*,5
+1995,Mauritania,5
+1995,Mauritius,5
+1995,Mayotte,5
+1995,Monaco,5
+1995,Morocco,5
+1995,New Caledonia*,5
+1995,Paraguay,5
+1995,Portugal,5
+1995,Réunion,5
+1995,Saint Pierre and Miquelon*,5
+1995,San Marino,5
+1995,Sao Tome and Principe,5
+1995,Senegal,5
+1995,Spain*,5
+1995,Switzerland,5
+1995,Tunisia,5
+1995,Uruguay,5
+1995,Vanuatu,5
+1995,Venezuela (Bolivarian Republic of),5
+1995,Wallis and Futuna Islands*,5
+1995,Western Sahara,5
+1995,Botswana,6
+1995,Burundi,6
+1995,Central African Republic,6
+1995,Congo,6
+1995,Democratic Republic of the Congo,6
+1995,Djibouti,6
+1995,Eswatini,6
+1995,Ethiopia,6
+1995,Kenya,6
+1995,Lesotho,6
+1995,Malawi,6
+1995,Mozambique,6
+1995,Namibia,6
+1995,Rwanda,6
+1995,Seychelles,6
+1995,Somalia,6
+1995,South Africa,6
+1995,Sudan,6
+1995,Uganda,6
+1995,United Republic of Tanzania,6
+1995,Zambia,6
+1995,Zimbabwe,6
+1995,Benin,7
+1995,Burkina Faso,7
+1995,Cameroon,7
+1995,Chad,7
+1995,Côte d'Ivoire,7
+1995,Equatorial Guinea,7
+1995,Gabon,7
+1995,Ghana,7
+1995,Guinea,7
+1995,Liberia,7
+1995,Mali,7
+1995,Niger,7
+1995,Nigeria,7
+1995,Sierra Leone,7
+1995,Togo,7

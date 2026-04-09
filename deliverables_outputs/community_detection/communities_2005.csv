@@ -1,0 +1,235 @@
+year,country,community
+2005,Afghanistan,0
+2005,Iran (Islamic Republic of),0
+2005,American Samoa*,1
+2005,Australia*,1
+2005,Barbados,1
+2005,Bermuda*,1
+2005,Canada,1
+2005,Channel Islands*,1
+2005,China,1
+2005,"China, Hong Kong SAR",1
+2005,"China, Macao SAR",1
+2005,Cook Islands*,1
+2005,Cyprus,1
+2005,Falkland Islands (Malvinas)*,1
+2005,Fiji,1
+2005,Gibraltar*,1
+2005,Grenada,1
+2005,Ireland,1
+2005,Isle of Man*,1
+2005,Kiribati,1
+2005,Lebanon,1
+2005,Malta,1
+2005,Nauru,1
+2005,New Zealand*,1
+2005,Niue*,1
+2005,Papua New Guinea,1
+2005,Saint Helena,1
+2005,Saint Lucia,1
+2005,Saint Vincent and the Grenadines,1
+2005,Samoa,1
+2005,Singapore,1
+2005,Solomon Islands,1
+2005,Tokelau*,1
+2005,Tonga,1
+2005,Tuvalu,1
+2005,United Kingdom*,1
+2005,Costa Rica,2
+2005,Nicaragua,2
+2005,Armenia,3
+2005,Azerbaijan,3
+2005,Belarus,3
+2005,Bulgaria,3
+2005,Estonia,3
+2005,Georgia,3
+2005,Kazakhstan,3
+2005,Kyrgyzstan,3
+2005,Latvia,3
+2005,Lithuania,3
+2005,Mongolia,3
+2005,Republic of Moldova*,3
+2005,Russian Federation,3
+2005,Tajikistan,3
+2005,Turkmenistan,3
+2005,Ukraine*,3
+2005,Uzbekistan,3
+2005,Bahrain,4
+2005,Bangladesh,4
+2005,Bhutan,4
+2005,Brunei Darussalam,4
+2005,Egypt,4
+2005,India,4
+2005,Indonesia,4
+2005,Jordan,4
+2005,Kuwait,4
+2005,Libya,4
+2005,Malaysia,4
+2005,Maldives,4
+2005,Myanmar,4
+2005,Nepal,4
+2005,Oman,4
+2005,Pakistan,4
+2005,Qatar,4
+2005,Saudi Arabia,4
+2005,Sri Lanka,4
+2005,State of Palestine,4
+2005,Syrian Arab Republic,4
+2005,Thailand,4
+2005,Timor-Leste,4
+2005,United Arab Emirates,4
+2005,Yemen,4
+2005,Austria,5
+2005,"Bonaire, Sint Eustatius and Saba*",5
+2005,Bosnia and Herzegovina,5
+2005,Croatia,5
+2005,Czechia,5
+2005,Denmark*,5
+2005,Ethiopia,5
+2005,Faroe Islands*,5
+2005,Finland*,5
+2005,Germany,5
+2005,Greenland*,5
+2005,Holy See*,5
+2005,Iceland,5
+2005,Iraq,5
+2005,Israel,5
+2005,Liechtenstein,5
+2005,Micronesia (Fed. States of),5
+2005,Montenegro,5
+2005,Netherlands*,5
+2005,North Macedonia,5
+2005,Norway*,5
+2005,Others,5
+2005,Poland,5
+2005,Serbia*,5
+2005,Slovakia,5
+2005,Slovenia,5
+2005,South Sudan,5
+2005,Suriname,5
+2005,Sweden,5
+2005,Switzerland,5
+2005,Türkiye,5
+2005,Benin,6
+2005,Burkina Faso,6
+2005,Cameroon,6
+2005,Côte d'Ivoire,6
+2005,Equatorial Guinea,6
+2005,Gabon,6
+2005,Ghana,6
+2005,Guinea,6
+2005,Liberia,6
+2005,Mali,6
+2005,Niger,6
+2005,Nigeria,6
+2005,Sierra Leone,6
+2005,Togo,6
+2005,Albania,7
+2005,Algeria,7
+2005,Andorra,7
+2005,Angola,7
+2005,Argentina,7
+2005,Belgium,7
+2005,Bolivia (Plurinational State of),7
+2005,Brazil,7
+2005,Cabo Verde,7
+2005,Chile,7
+2005,Comoros,7
+2005,Eritrea,7
+2005,France*,7
+2005,French Guiana*,7
+2005,French Polynesia*,7
+2005,Gambia,7
+2005,Greece,7
+2005,Guadeloupe*,7
+2005,Guinea-Bissau,7
+2005,Hungary,7
+2005,Italy,7
+2005,Luxembourg,7
+2005,Madagascar,7
+2005,Martinique*,7
+2005,Mauritania,7
+2005,Mauritius,7
+2005,Mayotte,7
+2005,Monaco,7
+2005,Morocco,7
+2005,Namibia,7
+2005,New Caledonia*,7
+2005,Paraguay,7
+2005,Portugal,7
+2005,Romania,7
+2005,Réunion,7
+2005,Saint Pierre and Miquelon*,7
+2005,San Marino,7
+2005,Sao Tome and Principe,7
+2005,Senegal,7
+2005,Spain*,7
+2005,Tunisia,7
+2005,Uruguay,7
+2005,Vanuatu,7
+2005,Wallis and Futuna Islands*,7
+2005,Western Sahara,7
+2005,Anguilla*,8
+2005,Antigua and Barbuda,8
+2005,Aruba*,8
+2005,Bahamas,8
+2005,Belize,8
+2005,British Virgin Islands*,8
+2005,Cambodia,8
+2005,Cayman Islands*,8
+2005,"China, Taiwan Province of China",8
+2005,Colombia,8
+2005,Cuba,8
+2005,Curaçao*,8
+2005,Dem. People's Republic of Korea,8
+2005,Dominica,8
+2005,Dominican Republic,8
+2005,Ecuador,8
+2005,El Salvador,8
+2005,Guam*,8
+2005,Guatemala,8
+2005,Guyana,8
+2005,Haiti,8
+2005,Honduras,8
+2005,Jamaica,8
+2005,Japan,8
+2005,Lao People's Democratic Republic,8
+2005,Marshall Islands,8
+2005,Mexico,8
+2005,Montserrat*,8
+2005,Northern Mariana Islands*,8
+2005,Palau,8
+2005,Panama,8
+2005,Peru,8
+2005,Philippines,8
+2005,Puerto Rico*,8
+2005,Republic of Korea,8
+2005,Saint Kitts and Nevis,8
+2005,Sint Maarten (Dutch part)*,8
+2005,Trinidad and Tobago,8
+2005,Turks and Caicos Islands*,8
+2005,United States Virgin Islands*,8
+2005,United States of America*,8
+2005,Venezuela (Bolivarian Republic of),8
+2005,Viet Nam,8
+2005,Botswana,9
+2005,Burundi,9
+2005,Central African Republic,9
+2005,Chad,9
+2005,Congo,9
+2005,Democratic Republic of the Congo,9
+2005,Djibouti,9
+2005,Eswatini,9
+2005,Kenya,9
+2005,Lesotho,9
+2005,Malawi,9
+2005,Mozambique,9
+2005,Rwanda,9
+2005,Seychelles,9
+2005,Somalia,9
+2005,South Africa,9
+2005,Sudan,9
+2005,Uganda,9
+2005,United Republic of Tanzania,9
+2005,Zambia,9
+2005,Zimbabwe,9

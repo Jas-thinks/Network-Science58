@@ -1,0 +1,235 @@
+year,country,community
+2010,Afghanistan,0
+2010,Iran (Islamic Republic of),0
+2010,American Samoa*,1
+2010,Angola,1
+2010,Australia*,1
+2010,Austria,1
+2010,"Bonaire, Sint Eustatius and Saba*",1
+2010,Bosnia and Herzegovina,1
+2010,Channel Islands*,1
+2010,Cook Islands*,1
+2010,Croatia,1
+2010,Czechia,1
+2010,Denmark*,1
+2010,Eritrea,1
+2010,Falkland Islands (Malvinas)*,1
+2010,Faroe Islands*,1
+2010,Fiji,1
+2010,Finland*,1
+2010,Germany,1
+2010,Gibraltar*,1
+2010,Greenland*,1
+2010,Holy See*,1
+2010,Iceland,1
+2010,Iraq,1
+2010,Ireland,1
+2010,Isle of Man*,1
+2010,Israel,1
+2010,Kiribati,1
+2010,Lebanon,1
+2010,Liechtenstein,1
+2010,Malta,1
+2010,Micronesia (Fed. States of),1
+2010,Montenegro,1
+2010,Namibia,1
+2010,Nauru,1
+2010,Netherlands*,1
+2010,New Zealand*,1
+2010,Niue*,1
+2010,North Macedonia,1
+2010,Norway*,1
+2010,Others,1
+2010,Papua New Guinea,1
+2010,Poland,1
+2010,Saint Helena,1
+2010,Samoa,1
+2010,Serbia*,1
+2010,Singapore,1
+2010,Slovakia,1
+2010,Slovenia,1
+2010,Solomon Islands,1
+2010,Suriname,1
+2010,Sweden,1
+2010,Switzerland,1
+2010,Tokelau*,1
+2010,Tonga,1
+2010,Tuvalu,1
+2010,Türkiye,1
+2010,United Kingdom*,1
+2010,Armenia,2
+2010,Azerbaijan,2
+2010,Belarus,2
+2010,Bulgaria,2
+2010,Estonia,2
+2010,Georgia,2
+2010,Kazakhstan,2
+2010,Kyrgyzstan,2
+2010,Latvia,2
+2010,Lithuania,2
+2010,Mongolia,2
+2010,Republic of Moldova*,2
+2010,Russian Federation,2
+2010,Tajikistan,2
+2010,Turkmenistan,2
+2010,Ukraine*,2
+2010,Uzbekistan,2
+2010,Bahrain,3
+2010,Bangladesh,3
+2010,Bhutan,3
+2010,Brunei Darussalam,3
+2010,Chad,3
+2010,Djibouti,3
+2010,Egypt,3
+2010,Ethiopia,3
+2010,India,3
+2010,Indonesia,3
+2010,Jordan,3
+2010,Kenya,3
+2010,Kuwait,3
+2010,Libya,3
+2010,Malaysia,3
+2010,Maldives,3
+2010,Nepal,3
+2010,Oman,3
+2010,Pakistan,3
+2010,Qatar,3
+2010,Saudi Arabia,3
+2010,Somalia,3
+2010,South Sudan,3
+2010,Sri Lanka,3
+2010,State of Palestine,3
+2010,Sudan,3
+2010,Syrian Arab Republic,3
+2010,Timor-Leste,3
+2010,Uganda,3
+2010,United Arab Emirates,3
+2010,Yemen,3
+2010,Myanmar,4
+2010,Thailand,4
+2010,Anguilla*,5
+2010,Antigua and Barbuda,5
+2010,Aruba*,5
+2010,Bahamas,5
+2010,Barbados,5
+2010,Belize,5
+2010,Bermuda*,5
+2010,British Virgin Islands*,5
+2010,Cambodia,5
+2010,Canada,5
+2010,Cayman Islands*,5
+2010,Chile,5
+2010,China,5
+2010,"China, Hong Kong SAR",5
+2010,"China, Macao SAR",5
+2010,"China, Taiwan Province of China",5
+2010,Colombia,5
+2010,Cuba,5
+2010,Curaçao*,5
+2010,Dem. People's Republic of Korea,5
+2010,Dominica,5
+2010,Dominican Republic,5
+2010,Ecuador,5
+2010,El Salvador,5
+2010,Grenada,5
+2010,Guam*,5
+2010,Guatemala,5
+2010,Guyana,5
+2010,Haiti,5
+2010,Honduras,5
+2010,Jamaica,5
+2010,Japan,5
+2010,Lao People's Democratic Republic,5
+2010,Marshall Islands,5
+2010,Mexico,5
+2010,Montserrat*,5
+2010,Northern Mariana Islands*,5
+2010,Palau,5
+2010,Panama,5
+2010,Peru,5
+2010,Philippines,5
+2010,Puerto Rico*,5
+2010,Republic of Korea,5
+2010,Saint Kitts and Nevis,5
+2010,Saint Lucia,5
+2010,Saint Vincent and the Grenadines,5
+2010,Sint Maarten (Dutch part)*,5
+2010,Trinidad and Tobago,5
+2010,Turks and Caicos Islands*,5
+2010,United States Virgin Islands*,5
+2010,United States of America*,5
+2010,Venezuela (Bolivarian Republic of),5
+2010,Viet Nam,5
+2010,Costa Rica,6
+2010,Nicaragua,6
+2010,Albania,7
+2010,Algeria,7
+2010,Andorra,7
+2010,Argentina,7
+2010,Belgium,7
+2010,Benin,7
+2010,Bolivia (Plurinational State of),7
+2010,Brazil,7
+2010,Burkina Faso,7
+2010,Cabo Verde,7
+2010,Cameroon,7
+2010,Central African Republic,7
+2010,Comoros,7
+2010,Cyprus,7
+2010,Côte d'Ivoire,7
+2010,Equatorial Guinea,7
+2010,France*,7
+2010,French Guiana*,7
+2010,French Polynesia*,7
+2010,Gabon,7
+2010,Gambia,7
+2010,Ghana,7
+2010,Greece,7
+2010,Guadeloupe*,7
+2010,Guinea,7
+2010,Guinea-Bissau,7
+2010,Hungary,7
+2010,Italy,7
+2010,Liberia,7
+2010,Luxembourg,7
+2010,Madagascar,7
+2010,Mali,7
+2010,Martinique*,7
+2010,Mauritania,7
+2010,Mauritius,7
+2010,Mayotte,7
+2010,Monaco,7
+2010,Morocco,7
+2010,New Caledonia*,7
+2010,Niger,7
+2010,Nigeria,7
+2010,Paraguay,7
+2010,Portugal,7
+2010,Romania,7
+2010,Réunion,7
+2010,Saint Pierre and Miquelon*,7
+2010,San Marino,7
+2010,Sao Tome and Principe,7
+2010,Senegal,7
+2010,Sierra Leone,7
+2010,Spain*,7
+2010,Togo,7
+2010,Tunisia,7
+2010,Uruguay,7
+2010,Vanuatu,7
+2010,Wallis and Futuna Islands*,7
+2010,Western Sahara,7
+2010,Botswana,8
+2010,Burundi,8
+2010,Congo,8
+2010,Democratic Republic of the Congo,8
+2010,Eswatini,8
+2010,Lesotho,8
+2010,Malawi,8
+2010,Mozambique,8
+2010,Rwanda,8
+2010,Seychelles,8
+2010,South Africa,8
+2010,United Republic of Tanzania,8
+2010,Zambia,8
+2010,Zimbabwe,8

@@ -1,0 +1,235 @@
+year,country,community
+1990,Afghanistan,0
+1990,Iran (Islamic Republic of),0
+1990,Iraq,0
+1990,American Samoa*,1
+1990,Anguilla*,1
+1990,Antigua and Barbuda,1
+1990,Aruba*,1
+1990,Australia*,1
+1990,Bahamas,1
+1990,Barbados,1
+1990,Belize,1
+1990,Bermuda*,1
+1990,"Bonaire, Sint Eustatius and Saba*",1
+1990,Botswana,1
+1990,British Virgin Islands*,1
+1990,Brunei Darussalam,1
+1990,Cambodia,1
+1990,Canada,1
+1990,Cayman Islands*,1
+1990,Channel Islands*,1
+1990,China,1
+1990,"China, Hong Kong SAR",1
+1990,"China, Macao SAR",1
+1990,"China, Taiwan Province of China",1
+1990,Congo,1
+1990,Cook Islands*,1
+1990,Costa Rica,1
+1990,Cuba,1
+1990,Curaçao*,1
+1990,Cyprus,1
+1990,Dem. People's Republic of Korea,1
+1990,Democratic Republic of the Congo,1
+1990,Dominica,1
+1990,Dominican Republic,1
+1990,Ecuador,1
+1990,Egypt,1
+1990,El Salvador,1
+1990,Eswatini,1
+1990,Fiji,1
+1990,Grenada,1
+1990,Guam*,1
+1990,Guatemala,1
+1990,Guyana,1
+1990,Haiti,1
+1990,Holy See*,1
+1990,Honduras,1
+1990,Ireland,1
+1990,Isle of Man*,1
+1990,Jamaica,1
+1990,Japan,1
+1990,Kenya,1
+1990,Kiribati,1
+1990,Lao People's Democratic Republic,1
+1990,Lebanon,1
+1990,Lesotho,1
+1990,Malawi,1
+1990,Malaysia,1
+1990,Malta,1
+1990,Marshall Islands,1
+1990,Mexico,1
+1990,Micronesia (Fed. States of),1
+1990,Montserrat*,1
+1990,Mozambique,1
+1990,Namibia,1
+1990,Nauru,1
+1990,New Zealand*,1
+1990,Nicaragua,1
+1990,Niger,1
+1990,Nigeria,1
+1990,Niue*,1
+1990,Northern Mariana Islands*,1
+1990,Others,1
+1990,Palau,1
+1990,Panama,1
+1990,Papua New Guinea,1
+1990,Peru,1
+1990,Philippines,1
+1990,Puerto Rico*,1
+1990,Republic of Korea,1
+1990,Saint Helena,1
+1990,Saint Kitts and Nevis,1
+1990,Saint Vincent and the Grenadines,1
+1990,Samoa,1
+1990,Seychelles,1
+1990,Singapore,1
+1990,Sint Maarten (Dutch part)*,1
+1990,Solomon Islands,1
+1990,South Africa,1
+1990,South Sudan,1
+1990,Syrian Arab Republic,1
+1990,Thailand,1
+1990,Tokelau*,1
+1990,Tonga,1
+1990,Trinidad and Tobago,1
+1990,Turks and Caicos Islands*,1
+1990,Tuvalu,1
+1990,United Kingdom*,1
+1990,United States Virgin Islands*,1
+1990,United States of America*,1
+1990,Viet Nam,1
+1990,Zambia,1
+1990,Zimbabwe,1
+1990,Albania,2
+1990,Algeria,2
+1990,Andorra,2
+1990,Angola,2
+1990,Argentina,2
+1990,Austria,2
+1990,Belgium,2
+1990,Bolivia (Plurinational State of),2
+1990,Bosnia and Herzegovina,2
+1990,Brazil,2
+1990,Cabo Verde,2
+1990,Chile,2
+1990,Colombia,2
+1990,Comoros,2
+1990,Croatia,2
+1990,Czechia,2
+1990,Denmark*,2
+1990,Eritrea,2
+1990,Falkland Islands (Malvinas)*,2
+1990,Faroe Islands*,2
+1990,Finland*,2
+1990,France*,2
+1990,French Guiana*,2
+1990,French Polynesia*,2
+1990,Germany,2
+1990,Gibraltar*,2
+1990,Greece,2
+1990,Greenland*,2
+1990,Guadeloupe*,2
+1990,Hungary,2
+1990,Iceland,2
+1990,Italy,2
+1990,Liechtenstein,2
+1990,Luxembourg,2
+1990,Madagascar,2
+1990,Martinique*,2
+1990,Mauritius,2
+1990,Mayotte,2
+1990,Monaco,2
+1990,Montenegro,2
+1990,Morocco,2
+1990,Netherlands*,2
+1990,New Caledonia*,2
+1990,North Macedonia,2
+1990,Norway*,2
+1990,Paraguay,2
+1990,Poland,2
+1990,Portugal,2
+1990,Romania,2
+1990,Réunion,2
+1990,Saint Lucia,2
+1990,Saint Pierre and Miquelon*,2
+1990,San Marino,2
+1990,Sao Tome and Principe,2
+1990,Serbia*,2
+1990,Slovakia,2
+1990,Slovenia,2
+1990,Spain*,2
+1990,Suriname,2
+1990,Sweden,2
+1990,Switzerland,2
+1990,Tunisia,2
+1990,Türkiye,2
+1990,Uruguay,2
+1990,Vanuatu,2
+1990,Venezuela (Bolivarian Republic of),2
+1990,Wallis and Futuna Islands*,2
+1990,Western Sahara,2
+1990,Armenia,3
+1990,Azerbaijan,3
+1990,Belarus,3
+1990,Bulgaria,3
+1990,Estonia,3
+1990,Georgia,3
+1990,Israel,3
+1990,Kazakhstan,3
+1990,Kyrgyzstan,3
+1990,Latvia,3
+1990,Lithuania,3
+1990,Mongolia,3
+1990,Republic of Moldova*,3
+1990,Russian Federation,3
+1990,Tajikistan,3
+1990,Turkmenistan,3
+1990,Ukraine*,3
+1990,Uzbekistan,3
+1990,Bahrain,4
+1990,Bangladesh,4
+1990,Bhutan,4
+1990,India,4
+1990,Indonesia,4
+1990,Jordan,4
+1990,Kuwait,4
+1990,Libya,4
+1990,Maldives,4
+1990,Myanmar,4
+1990,Nepal,4
+1990,Oman,4
+1990,Pakistan,4
+1990,Qatar,4
+1990,Saudi Arabia,4
+1990,Sri Lanka,4
+1990,State of Palestine,4
+1990,Timor-Leste,4
+1990,United Arab Emirates,4
+1990,Yemen,4
+1990,Burundi,5
+1990,Central African Republic,5
+1990,Djibouti,5
+1990,Ethiopia,5
+1990,Rwanda,5
+1990,Somalia,5
+1990,Sudan,5
+1990,Uganda,5
+1990,United Republic of Tanzania,5
+1990,Benin,6
+1990,Burkina Faso,6
+1990,Cameroon,6
+1990,Chad,6
+1990,Côte d'Ivoire,6
+1990,Equatorial Guinea,6
+1990,Gabon,6
+1990,Gambia,6
+1990,Ghana,6
+1990,Guinea,6
+1990,Guinea-Bissau,6
+1990,Liberia,6
+1990,Mali,6
+1990,Mauritania,6
+1990,Senegal,6
+1990,Sierra Leone,6
+1990,Togo,6

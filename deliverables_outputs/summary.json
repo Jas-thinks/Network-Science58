@@ -1,0 +1,18 @@
+{
+  "best_model": {
+    "model": "random_forest",
+    "r2": 0.9455379017076856,
+    "rmse": 0.6943641357820255,
+    "test_rows": 18542
+  },
+  "highest_modularity_snapshot": {
+    "year": 1995.0,
+    "nodes": 234.0,
+    "edges": 8468.0,
+    "communities": 8.0,
+    "modularity_Q": 0.5534279331375963
+  },
+  "mean_nmi": 0.7455448381994945,
+  "mean_ari": 0.6179628959568904,
+  "mean_jaccard_drift": 0.7213536459499614
+}

@@ -1,0 +1,235 @@
+year,country,community
+2020,Afghanistan,0
+2020,Iran (Islamic Republic of),0
+2020,Albania,1
+2020,Austria,1
+2020,Bosnia and Herzegovina,1
+2020,Croatia,1
+2020,Cyprus,1
+2020,Czechia,1
+2020,Denmark*,1
+2020,Egypt,1
+2020,Eritrea,1
+2020,Faroe Islands*,1
+2020,Finland*,1
+2020,Germany,1
+2020,Greece,1
+2020,Greenland*,1
+2020,Hungary,1
+2020,Iceland,1
+2020,Iraq,1
+2020,Italy,1
+2020,Jordan,1
+2020,Lebanon,1
+2020,Libya,1
+2020,Liechtenstein,1
+2020,Montenegro,1
+2020,North Macedonia,1
+2020,Norway*,1
+2020,Poland,1
+2020,Romania,1
+2020,San Marino,1
+2020,Serbia*,1
+2020,Slovakia,1
+2020,Slovenia,1
+2020,State of Palestine,1
+2020,Sweden,1
+2020,Switzerland,1
+2020,Syrian Arab Republic,1
+2020,Türkiye,1
+2020,Botswana,2
+2020,Burundi,2
+2020,Cameroon,2
+2020,Central African Republic,2
+2020,Congo,2
+2020,Democratic Republic of the Congo,2
+2020,Eswatini,2
+2020,Lesotho,2
+2020,Malawi,2
+2020,Mozambique,2
+2020,Namibia,2
+2020,Rwanda,2
+2020,Seychelles,2
+2020,South Africa,2
+2020,United Republic of Tanzania,2
+2020,Zambia,2
+2020,Zimbabwe,2
+2020,Armenia,3
+2020,Azerbaijan,3
+2020,Belarus,3
+2020,Bulgaria,3
+2020,Estonia,3
+2020,Georgia,3
+2020,Israel,3
+2020,Kazakhstan,3
+2020,Kyrgyzstan,3
+2020,Latvia,3
+2020,Liberia,3
+2020,Lithuania,3
+2020,Mongolia,3
+2020,Republic of Moldova*,3
+2020,Russian Federation,3
+2020,Tajikistan,3
+2020,Turkmenistan,3
+2020,Ukraine*,3
+2020,Uzbekistan,3
+2020,Bahrain,4
+2020,Bangladesh,4
+2020,Brunei Darussalam,4
+2020,Chad,4
+2020,Djibouti,4
+2020,Ethiopia,4
+2020,India,4
+2020,Indonesia,4
+2020,Kenya,4
+2020,Kuwait,4
+2020,Malaysia,4
+2020,Maldives,4
+2020,Myanmar,4
+2020,Nepal,4
+2020,Oman,4
+2020,Pakistan,4
+2020,Qatar,4
+2020,Saudi Arabia,4
+2020,Somalia,4
+2020,South Sudan,4
+2020,Sri Lanka,4
+2020,Sudan,4
+2020,Thailand,4
+2020,Timor-Leste,4
+2020,Uganda,4
+2020,United Arab Emirates,4
+2020,Yemen,4
+2020,Algeria,5
+2020,Andorra,5
+2020,Aruba*,5
+2020,Belgium,5
+2020,Benin,5
+2020,Burkina Faso,5
+2020,Cabo Verde,5
+2020,Comoros,5
+2020,Côte d'Ivoire,5
+2020,France*,5
+2020,French Guiana*,5
+2020,French Polynesia*,5
+2020,Gabon,5
+2020,Gambia,5
+2020,Guadeloupe*,5
+2020,Guinea,5
+2020,Guinea-Bissau,5
+2020,Luxembourg,5
+2020,Madagascar,5
+2020,Mali,5
+2020,Martinique*,5
+2020,Mauritania,5
+2020,Mauritius,5
+2020,Mayotte,5
+2020,Monaco,5
+2020,Morocco,5
+2020,Netherlands*,5
+2020,New Caledonia*,5
+2020,Portugal,5
+2020,Réunion,5
+2020,Saint Pierre and Miquelon*,5
+2020,Sao Tome and Principe,5
+2020,Senegal,5
+2020,Sierra Leone,5
+2020,Spain*,5
+2020,Suriname,5
+2020,Togo,5
+2020,Tunisia,5
+2020,Wallis and Futuna Islands*,5
+2020,Western Sahara,5
+2020,Argentina,6
+2020,Bolivia (Plurinational State of),6
+2020,Brazil,6
+2020,Chile,6
+2020,Colombia,6
+2020,Costa Rica,6
+2020,Ecuador,6
+2020,Nicaragua,6
+2020,Paraguay,6
+2020,Peru,6
+2020,Uruguay,6
+2020,Venezuela (Bolivarian Republic of),6
+2020,American Samoa*,7
+2020,Angola,7
+2020,Anguilla*,7
+2020,Antigua and Barbuda,7
+2020,Australia*,7
+2020,Bahamas,7
+2020,Barbados,7
+2020,Belize,7
+2020,Bermuda*,7
+2020,Bhutan,7
+2020,"Bonaire, Sint Eustatius and Saba*",7
+2020,British Virgin Islands*,7
+2020,Cambodia,7
+2020,Canada,7
+2020,Cayman Islands*,7
+2020,Channel Islands*,7
+2020,China,7
+2020,"China, Hong Kong SAR",7
+2020,"China, Macao SAR",7
+2020,"China, Taiwan Province of China",7
+2020,Cook Islands*,7
+2020,Cuba,7
+2020,Curaçao*,7
+2020,Dem. People's Republic of Korea,7
+2020,Dominica,7
+2020,Dominican Republic,7
+2020,El Salvador,7
+2020,Equatorial Guinea,7
+2020,Falkland Islands (Malvinas)*,7
+2020,Fiji,7
+2020,Ghana,7
+2020,Gibraltar*,7
+2020,Grenada,7
+2020,Guam*,7
+2020,Guatemala,7
+2020,Guyana,7
+2020,Haiti,7
+2020,Holy See*,7
+2020,Honduras,7
+2020,Ireland,7
+2020,Isle of Man*,7
+2020,Jamaica,7
+2020,Japan,7
+2020,Kiribati,7
+2020,Lao People's Democratic Republic,7
+2020,Malta,7
+2020,Marshall Islands,7
+2020,Mexico,7
+2020,Micronesia (Fed. States of),7
+2020,Montserrat*,7
+2020,Nauru,7
+2020,New Zealand*,7
+2020,Niger,7
+2020,Nigeria,7
+2020,Niue*,7
+2020,Northern Mariana Islands*,7
+2020,Others,7
+2020,Palau,7
+2020,Panama,7
+2020,Papua New Guinea,7
+2020,Philippines,7
+2020,Puerto Rico*,7
+2020,Republic of Korea,7
+2020,Saint Helena,7
+2020,Saint Kitts and Nevis,7
+2020,Saint Lucia,7
+2020,Saint Vincent and the Grenadines,7
+2020,Samoa,7
+2020,Singapore,7
+2020,Sint Maarten (Dutch part)*,7
+2020,Solomon Islands,7
+2020,Tokelau*,7
+2020,Tonga,7
+2020,Trinidad and Tobago,7
+2020,Turks and Caicos Islands*,7
+2020,Tuvalu,7
+2020,United Kingdom*,7
+2020,United States Virgin Islands*,7
+2020,United States of America*,7
+2020,Vanuatu,7
+2020,Viet Nam,7

@@ -1,0 +1,49 @@
+DELIVERABLES INDEX
+
+1) Dynamic network snapshots
+- /home/jas/Desktop/Network/deliverables_outputs/dynamic_graphs/dynamic_digraph_1990.pkl
+- /home/jas/Desktop/Network/deliverables_outputs/dynamic_graphs/dynamic_digraph_1995.pkl
+- /home/jas/Desktop/Network/deliverables_outputs/dynamic_graphs/dynamic_digraph_2000.pkl
+- /home/jas/Desktop/Network/deliverables_outputs/dynamic_graphs/dynamic_digraph_2005.pkl
+- /home/jas/Desktop/Network/deliverables_outputs/dynamic_graphs/dynamic_digraph_2010.pkl
+- /home/jas/Desktop/Network/deliverables_outputs/dynamic_graphs/dynamic_digraph_2015.pkl
+- /home/jas/Desktop/Network/deliverables_outputs/dynamic_graphs/dynamic_digraph_2020.pkl
+- /home/jas/Desktop/Network/deliverables_outputs/dynamic_graphs/dynamic_digraph_2024.pkl
+
+2) Centrality CSVs
+- /home/jas/Desktop/Network/deliverables_outputs/centrality_csvs/centrality_all_snapshots.csv
+- /home/jas/Desktop/Network/deliverables_outputs/centrality_csvs/centrality_1990.csv
+- /home/jas/Desktop/Network/deliverables_outputs/centrality_csvs/centrality_1995.csv
+- /home/jas/Desktop/Network/deliverables_outputs/centrality_csvs/centrality_2000.csv
+- /home/jas/Desktop/Network/deliverables_outputs/centrality_csvs/centrality_2005.csv
+- /home/jas/Desktop/Network/deliverables_outputs/centrality_csvs/centrality_2010.csv
+- /home/jas/Desktop/Network/deliverables_outputs/centrality_csvs/centrality_2015.csv
+- /home/jas/Desktop/Network/deliverables_outputs/centrality_csvs/centrality_2020.csv
+- /home/jas/Desktop/Network/deliverables_outputs/centrality_csvs/centrality_2024.csv
+
+3) Community detection
+- /home/jas/Desktop/Network/deliverables_outputs/community_detection/modularity_Q_table.csv
+- /home/jas/Desktop/Network/deliverables_outputs/community_detection/nmi_ari_comparison.csv
+- /home/jas/Desktop/Network/deliverables_outputs/community_detection/jaccard_drift_summary.csv
+- /home/jas/Desktop/Network/deliverables_outputs/community_detection/jaccard_drift_chart.png
+- /home/jas/Desktop/Network/deliverables_outputs/community_detection/community_stability_overview.png
+
+4) Regression outputs
+- /home/jas/Desktop/Network/deliverables_outputs/regression_output/coefficient_tables.csv
+- /home/jas/Desktop/Network/deliverables_outputs/regression_output/coefficients_linear.csv
+- /home/jas/Desktop/Network/deliverables_outputs/regression_output/coefficients_ridge.csv
+- /home/jas/Desktop/Network/deliverables_outputs/regression_output/coefficients_lasso.csv
+- /home/jas/Desktop/Network/deliverables_outputs/regression_output/r2_comparison.csv
+- /home/jas/Desktop/Network/deliverables_outputs/regression_output/vif_report.csv
+
+5) Dashboard exports
+- /home/jas/Desktop/Network/deliverables_outputs/powerbi_exports/screenshots/dashboard_01_overview.png
+- /home/jas/Desktop/Network/deliverables_outputs/powerbi_exports/screenshots/dashboard_02_corridors.png
+- /home/jas/Desktop/Network/deliverables_outputs/powerbi_exports/screenshots/dashboard_03_temporal.png
+- /home/jas/Desktop/Network/deliverables_outputs/powerbi_exports/screenshots/dashboard_04_communities.png
+- /home/jas/Desktop/Network/deliverables_outputs/powerbi_exports/screenshots/dashboard_05_regression.png
+
+6) Final report
+- /home/jas/Desktop/Network/final_report.md
+- /home/jas/Desktop/Network/deliverables_outputs/final_report.md
+- /home/jas/Desktop/Network/powerbi_dashboard_spec.md

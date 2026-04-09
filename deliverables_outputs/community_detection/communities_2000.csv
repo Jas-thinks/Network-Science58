@@ -1,0 +1,235 @@
+year,country,community
+2000,Benin,0
+2000,Burkina Faso,0
+2000,Cameroon,0
+2000,Chad,0
+2000,Côte d'Ivoire,0
+2000,Equatorial Guinea,0
+2000,Gabon,0
+2000,Ghana,0
+2000,Guinea,0
+2000,Liberia,0
+2000,Mali,0
+2000,Niger,0
+2000,Nigeria,0
+2000,Sierra Leone,0
+2000,Togo,0
+2000,Burundi,1
+2000,Central African Republic,1
+2000,Congo,1
+2000,Democratic Republic of the Congo,1
+2000,Djibouti,1
+2000,Ethiopia,1
+2000,Kenya,1
+2000,Rwanda,1
+2000,Somalia,1
+2000,Sudan,1
+2000,Uganda,1
+2000,United Republic of Tanzania,1
+2000,Zambia,1
+2000,Afghanistan,2
+2000,Iran (Islamic Republic of),2
+2000,Iraq,2
+2000,Armenia,3
+2000,Azerbaijan,3
+2000,Belarus,3
+2000,Bulgaria,3
+2000,Estonia,3
+2000,Georgia,3
+2000,Israel,3
+2000,Kazakhstan,3
+2000,Kyrgyzstan,3
+2000,Latvia,3
+2000,Lithuania,3
+2000,Mongolia,3
+2000,Republic of Moldova*,3
+2000,Russian Federation,3
+2000,Tajikistan,3
+2000,Turkmenistan,3
+2000,Ukraine*,3
+2000,Uzbekistan,3
+2000,Bahrain,4
+2000,Bangladesh,4
+2000,Bhutan,4
+2000,Brunei Darussalam,4
+2000,Egypt,4
+2000,India,4
+2000,Indonesia,4
+2000,Jordan,4
+2000,Kuwait,4
+2000,Libya,4
+2000,Maldives,4
+2000,Myanmar,4
+2000,Nepal,4
+2000,Oman,4
+2000,Pakistan,4
+2000,Qatar,4
+2000,Saudi Arabia,4
+2000,Sri Lanka,4
+2000,State of Palestine,4
+2000,Syrian Arab Republic,4
+2000,Timor-Leste,4
+2000,United Arab Emirates,4
+2000,Yemen,4
+2000,Algeria,5
+2000,Andorra,5
+2000,Angola,5
+2000,Argentina,5
+2000,Belgium,5
+2000,Bolivia (Plurinational State of),5
+2000,Brazil,5
+2000,Cabo Verde,5
+2000,Chile,5
+2000,Comoros,5
+2000,Eritrea,5
+2000,France*,5
+2000,French Guiana*,5
+2000,French Polynesia*,5
+2000,Gambia,5
+2000,Guadeloupe*,5
+2000,Guinea-Bissau,5
+2000,Italy,5
+2000,Liechtenstein,5
+2000,Luxembourg,5
+2000,Madagascar,5
+2000,Martinique*,5
+2000,Mauritania,5
+2000,Mauritius,5
+2000,Mayotte,5
+2000,Monaco,5
+2000,Morocco,5
+2000,Namibia,5
+2000,New Caledonia*,5
+2000,Paraguay,5
+2000,Portugal,5
+2000,Réunion,5
+2000,Saint Pierre and Miquelon*,5
+2000,San Marino,5
+2000,Sao Tome and Principe,5
+2000,Senegal,5
+2000,Spain*,5
+2000,Switzerland,5
+2000,Tunisia,5
+2000,Uruguay,5
+2000,Vanuatu,5
+2000,Wallis and Futuna Islands*,5
+2000,Western Sahara,5
+2000,Albania,6
+2000,American Samoa*,6
+2000,Australia*,6
+2000,Barbados,6
+2000,Bermuda*,6
+2000,Botswana,6
+2000,Canada,6
+2000,Channel Islands*,6
+2000,China,6
+2000,"China, Hong Kong SAR",6
+2000,"China, Macao SAR",6
+2000,Cook Islands*,6
+2000,Cyprus,6
+2000,Eswatini,6
+2000,Fiji,6
+2000,Gibraltar*,6
+2000,Greece,6
+2000,Grenada,6
+2000,Ireland,6
+2000,Isle of Man*,6
+2000,Kiribati,6
+2000,Lebanon,6
+2000,Lesotho,6
+2000,Malawi,6
+2000,Malta,6
+2000,Mozambique,6
+2000,Nauru,6
+2000,New Zealand*,6
+2000,Niue*,6
+2000,Papua New Guinea,6
+2000,Saint Lucia,6
+2000,Saint Vincent and the Grenadines,6
+2000,Samoa,6
+2000,Seychelles,6
+2000,Singapore,6
+2000,Solomon Islands,6
+2000,South Africa,6
+2000,Tokelau*,6
+2000,Tonga,6
+2000,Tuvalu,6
+2000,United Kingdom*,6
+2000,Zimbabwe,6
+2000,Anguilla*,7
+2000,Antigua and Barbuda,7
+2000,Aruba*,7
+2000,Bahamas,7
+2000,Belize,7
+2000,British Virgin Islands*,7
+2000,Cambodia,7
+2000,Cayman Islands*,7
+2000,"China, Taiwan Province of China",7
+2000,Colombia,7
+2000,Cuba,7
+2000,Curaçao*,7
+2000,Dem. People's Republic of Korea,7
+2000,Dominica,7
+2000,Dominican Republic,7
+2000,El Salvador,7
+2000,Falkland Islands (Malvinas)*,7
+2000,Guam*,7
+2000,Guatemala,7
+2000,Guyana,7
+2000,Haiti,7
+2000,Honduras,7
+2000,Jamaica,7
+2000,Japan,7
+2000,Lao People's Democratic Republic,7
+2000,Malaysia,7
+2000,Marshall Islands,7
+2000,Mexico,7
+2000,Montserrat*,7
+2000,Northern Mariana Islands*,7
+2000,Palau,7
+2000,Panama,7
+2000,Peru,7
+2000,Philippines,7
+2000,Puerto Rico*,7
+2000,Republic of Korea,7
+2000,Saint Helena,7
+2000,Saint Kitts and Nevis,7
+2000,Sint Maarten (Dutch part)*,7
+2000,Thailand,7
+2000,Trinidad and Tobago,7
+2000,Turks and Caicos Islands*,7
+2000,United States Virgin Islands*,7
+2000,United States of America*,7
+2000,Venezuela (Bolivarian Republic of),7
+2000,Viet Nam,7
+2000,Costa Rica,8
+2000,Nicaragua,8
+2000,Austria,9
+2000,"Bonaire, Sint Eustatius and Saba*",9
+2000,Bosnia and Herzegovina,9
+2000,Croatia,9
+2000,Czechia,9
+2000,Denmark*,9
+2000,Ecuador,9
+2000,Faroe Islands*,9
+2000,Finland*,9
+2000,Germany,9
+2000,Greenland*,9
+2000,Holy See*,9
+2000,Hungary,9
+2000,Iceland,9
+2000,Micronesia (Fed. States of),9
+2000,Montenegro,9
+2000,Netherlands*,9
+2000,North Macedonia,9
+2000,Norway*,9
+2000,Others,9
+2000,Poland,9
+2000,Romania,9
+2000,Serbia*,9
+2000,Slovakia,9
+2000,Slovenia,9
+2000,South Sudan,9
+2000,Suriname,9
+2000,Sweden,9
+2000,Türkiye,9

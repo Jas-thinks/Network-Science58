@@ -1,0 +1,73 @@
+Sheet names: ['Table 1', 'Table 2', 'Table 3', 'Table 4', 'Table 5', 'Table 6', 'Table 7', 'Table 8', 'Table 9', 'Table 10', 'Table 11', 'Table 12', 'Table 13', 'Table 14', 'Table 15', 'Table 16', 'Table 17', 'Table 18', 'Table 19', 'Table 20', 'Table 21', 'Table 22', 'Table 23', 'Table 24', 'Table 25', 'Table 26', 'Table 27', 'Table 28', 'Table 29', 'Table 30', 'Table 31', 'Table 32', 'Table 33', 'Table 34', 'Table 35', 'Table 36', 'Table 37', 'Table 38', 'Table 39', 'Table 40', 'Table 41', 'Table 42', 'Table 43', 'Table 44', 'Table 45', 'Table 46', 'Table 47', 'Table 48', 'Table 49', 'Table 50', 'Table 51', 'Table 52', 'Table 53', 'Table 54', 'Table 55', 'Table 56', 'Table 57', 'Table 58', 'Table 59', 'Table 60', 'Table 61', 'Table 62', 'Table 63', 'Table 64', 'Table 65', 'Table 66', 'Table 67', 'Table 68', 'Table 69', 'Table 70', 'Table 71', 'Table 72', 'Table 73', 'Table 74', 'Table 75', 'Table 76', 'Table 77', 'Table 78', 'Table 79', 'Table 80', 'Table 81', 'Table 82', 'Table 83', 'Table 84', 'Table 85', 'Table 86', 'Table 87', 'Table 88', 'Table 89', 'Table 90', 'Table 91', 'Table 92', 'Table 93', 'Table 94', 'Table 95', 'Table 96', 'Table 97', 'Table 98', 'Table 99', 'Table 100', 'Table 101', 'Table 102', 'Table 103', 'Table 104', 'Table 105', 'Table 106', 'Table 107', 'Table 108', 'Table 109', 'Table 110', 'Table 111', 'Table 112', 'Table 113', 'Table 114', 'Table 115', 'Table 116', 'Table 117', 'Table 118', 'Table 119', 'Table 120', 'Table 121', 'Table 122', 'Table 123', 'Table 124', 'Table 125', 'Table 126', 'Table 127', 'Table 128', 'Table 129', 'Table 130', 'Table 131', 'Table 132', 'Table 133', 'Table 134', 'Table 135', 'Table 136', 'Table 137', 'Table 138', 'Table 139', 'Table 140', 'Table 141', 'Table 142', 'Table 143', 'Table 144', 'Table 145', 'Table 146', 'Table 147', 'Table 148', 'Table 149', 'Table 150', 'Table 151', 'Table 152', 'Table 153', 'Table 154', 'Table 155', 'Table 156', 'Table 157', 'Table 158', 'Table 159', 'Table 160', 'Table 161', 'Table 162', 'Table 163', 'Table 164', 'Table 165', 'Table 166', 'Table 167', 'Table 168', 'Table 169', 'Table 170', 'Table 171', 'Table 172', 'Table 173', 'Table 174', 'Table 175', 'Table 176', 'Table 177', 'Table 178', 'Table 179', 'Table 180', 'Table 181', 'Table 182', 'Table 183', 'Table 184', 'Table 185', 'Table 186', 'Table 187', 'Table 188', 'Table 189', 'Table 190', 'Table 191', 'Table 192', 'Table 193', 'Table 194', 'Table 195', 'Table 196', 'Table 197', 'Table 198', 'Table 199', 'Table 200', 'Table 201', 'Table 202', 'Table 203', 'Table 204', 'Table 205', 'Table 206', 'Table 207', 'Table 208', 'Table 209', 'Table 210', 'Table 211', 'Table 212', 'Table 213', 'Table 214', 'Table 215', 'Table 216', 'Table 217', 'Table 218', 'Table 219', 'Table 220', 'Table 221', 'Table 222', 'Table 223', 'Table 224', 'Table 225', 'Table 226', 'Table 227', 'Table 228', 'Table 229', 'Table 230', 'Table 231', 'Table 232', 'Table 233', 'Table 234', 'Table 235', 'Table 236', 'Table 237', 'Table 238', 'Table 239', 'Table 240', 'Table 241', 'Table 242', 'Table 243', 'Table 244', 'Table 245', 'Table 246', 'Table 247', 'Table 248', 'Table 249', 'Table 250', 'Table 251', 'Table 252', 'Table 253', 'Table 254', 'Table 255', 'Table 256', 'Table 257', 'Table 258', 'Table 259', 'Table 260', 'Table 261', 'Table 262', 'Table 263', 'Table 264', 'Table 265', 'Table 266', 'Table 267', 'Table 268', 'Table 269', 'Table 270', 'Table 271', 'Table 272', 'Table 273', 'Table 274', 'Table 275', 'Table 276', 'Table 277', 'Table 278', 'Table 279', 'Table 280', 'Table 281', 'Table 282', 'Table 283', 'Table 284', 'Table 285', 'Table 286', 'Table 287', 'Table 288', 'Table 289', 'Table 290', 'Table 291', 'Table 292', 'Table 293', 'Table 294', 'Table 295', 'Table 296', 'Table 297', 'Table 298', 'Table 299', 'Table 300', 'Table 301', 'Table 302', 'Table 303', 'Table 304', 'Table 305', 'Table 306', 'Table 307', 'Table 308', 'Table 309', 'Table 310', 'Table 311', 'Table 312', 'Table 313', 'Table 314', 'Table 315', 'Table 316', 'Table 317', 'Table 318', 'Table 319', 'Table 320', 'Table 321', 'Table 322', 'Table 323', 'Table 324', 'Table 325', 'Table 326', 'Table 327', 'Table 328', 'Table 329', 'Table 330', 'Table 331', 'Table 332', 'Table 333', 'Table 334', 'Table 335', 'Table 336', 'Table 337', 'Table 338', 'Table 339', 'Table 340', 'Table 341', 'Table 342', 'Table 343', 'Table 344', 'Table 345', 'Table 346', 'Table 347', 'Table 348', 'Table 349', 'Table 350', 'Table 351', 'Table 352', 'Table 353', 'Table 354', 'Table 355', 'Table 356', 'Table 357', 'Table 358', 'Table 359', 'Table 360', 'Table 361', 'Table 362', 'Table 363', 'Table 364', 'Table 365', 'Table 366', 'Table 367', 'Table 368', 'Table 369', 'Table 370', 'Table 371', 'Table 372', 'Table 373', 'Table 374', 'Table 375', 'Table 376', 'Table 377', 'Table 378', 'Table 379', 'Table 380', 'Table 381', 'Table 382', 'Table 383', 'Table 384', 'Table 385', 'Table 386', 'Table 387', 'Table 388', 'Table 389', 'Table 390', 'Table 391', 'Table 392', 'Table 393', 'Table 394', 'Table 395', 'Table 396', 'Table 397', 'Table 398', 'Table 399', 'Table 400', 'Table 401', 'Table 402', 'Table 403', 'Table 404', 'Table 405', 'Table 406', 'Table 407', 'Table 408', 'Table 409', 'Table 410', 'Table 411', 'Table 412', 'Table 413', 'Table 414', 'Table 415', 'Table 416', 'Table 417', 'Table 418', 'Table 419', 'Table 420', 'Table 421', 'Table 422', 'Table 423', 'Table 424', 'Table 425', 'Table 426', 'Table 427', 'Table 428', 'Table 429', 'Table 430', 'Table 431', 'Table 432', 'Table 433', 'Table 434', 'Table 435', 'Table 436', 'Table 437', 'Table 438', 'Table 439', 'Table 440', 'Table 441', 'Table 442', 'Table 443', 'Table 444', 'Table 445', 'Table 446', 'Table 447', 'Table 448', 'Table 449', 'Table 450', 'Table 451', 'Table 452', 'Table 453', 'Table 454', 'Table 455', 'Table 456', 'Table 457', 'Table 458', 'Table 459', 'Table 460', 'Table 461', 'Table 462', 'Table 463', 'Table 464', 'Table 465', 'Table 466', 'Table 467', 'Table 468', 'Table 469', 'Table 470', 'Table 471', 'Table 472', 'Table 473', 'Table 474', 'Table 475', 'Table 476', 'Table 477', 'Table 478', 'Table 479', 'Table 480', 'Table 481', 'Table 482', 'Table 483', 'Table 484', 'Table 485', 'Table 486', 'Table 487', 'Table 488', 'Table 489', 'Table 490', 'Table 491', 'Table 492', 'Table 493', 'Table 494', 'Table 495', 'Table 496', 'Table 497', 'Table 498', 'Table 499', 'Table 500']
+Shape: (257, 15)
+Columns: ['Region, development group, country or area of destination', 'Region, development group, country or area of origin', 1990, 1995, 2000, 2005, 2010, 2015, 2020, 2024]
+Head:
+                                                                                      Region, development group, country or area of destination  ...    2024
+Region, development group, country or area of destination Region, development group, country or area of origin  ...         
+World                                                    World                                                        ...  281046657
+World                                                    Africa                                                       ...   40588538
+World                                                    Asia                                                         ...  105282019
+World                                                    Europe                                                       ...   87496441
+World                                                    Latin America and the Caribbean                              ...   15128213
+World                                                    Northern America                                              ...   59896413
+World                                                    Oceania                                                      ...    9441986
+World                                                    Other regions                                                ...    1174047
+Africa                                                   World                                                        ...   40588538
+Africa                                                   Africa                                                       ...    2179647
+
+[10 rows x 15 columns]
+
+Checking for bilateral migration data capability:
+Unique destinations: 257
+Unique origins: 257
+Country-to-country pairs: 23400
+Sample country pairs:
+    Region, development group, country or area of destination  \
+8                                         Africa   
+9                                         Africa   
+10                                        Africa   
+11                                        Africa   
+12                                        Africa   
+13                                        Africa   
+14                                        Africa   
+15                                        Africa   
+16                                        Africa   
+17                                        Africa   
+
+    Region, development group, country or area of origin    2024
+8                                         Algeria   120273
+9                                          Angola    89213
+10                                         Benin    117282
+11                                     Botswana     16013
+12                                 Burkina Faso     11313
+13                                      Burundi     10813
+14                                   Cabo Verde      3813
+15                                   Cameroon     346013
+16  Central African Republic      10813
+17                                         Chad     10813
+
+Data quality check:
+Data types:
+Region, development group, country or area of destination    object
+Region, development group, country or area of origin         object
+1990                                                        int64
+1995                                                        int64
+2000                                                        int64
+2005                                                        int64
+2010                                                        int64
+2015                                                        int64
+2020                                                        int64
+2024                                                        int64
+dtype: object
+Missing values per column:
+Region, development group, country or area of destination    0
+Region, development group, country or area of origin         0
+1990                                                        0
+1995                                                        0
+2000                                                        0
+2005                                                        0
+2010                                                        0
+2015                                                        0
+2020                                                        0
+2024                                                        0
+dtype: int64
