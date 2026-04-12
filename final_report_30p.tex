@@ -43,7 +43,19 @@ This report delivers a structured, end-to-end analysis of global migration using
 \clearpage
 
 \chapter{Introduction}
-International migration reshapes demographics, economies, and policy. Network science provides a systems view of migration by modeling countries as nodes and flows as directed weighted edges. This report focuses on structural hubs, community evolution, and temporal stability, and extends the analysis with machine learning and a custom influence metric.
+International migration continues to shape national labor markets, demographic structures, and regional security. From established labor corridors to sudden displacement flows, global migration has become increasingly interconnected and dynamic. This project addresses that complexity by modeling migration as a directed weighted network, where countries are nodes and bilateral migrant stocks are edges. The network framing is designed to capture structural dependencies that traditional origin-destination tables do not reveal.
+
+The motivation for this work arises from practical observation: migration corridors are not isolated, and pathway dependencies matter. For example, the long-standing Mexico--USA route coexists with emerging Gulf labor links and conflict-driven flows from Syria to Türkiye. A pure bilateral analysis would view each corridor separately, but a network perspective allows the analysis to detect how certain countries operate as hubs, how regional clusters stabilize flows, and how shocks propagate across multiple corridors simultaneously.
+
+This report draws on UN DESA International Migrant Stock data and complementary socio-economic indicators. The dataset is partitioned into stagewise snapshots spanning 1990 through 2024, enabling longitudinal examination of migration structure. The central contribution is the temporal corridor analysis: by comparing top routes in six intervals, the research distinguishes persistent, institutionally reinforced corridors from emergent pathways driven by conflict, policy shifts, or sudden labor demand changes.
+
+The analytical framework is also grounded in measurement innovation. In addition to standard network centrality metrics—such as in-degree, out-degree, betweenness, and PageRank—the project introduces a Migration Influence Score (MIS). This composite metric combines PageRank with total flow volume to highlight countries that are both structurally influential and quantitatively significant. MIS is intended to be a practical tool for identifying destinations that matter most for corridor management and policy response.
+
+Community detection forms a second pillar of the analysis. This study applies Louvain, Girvan--Newman, and Leiden algorithms to identify cohesive migration blocs. The comparison of these methods is not merely technical: it reveals whether migration is organized into stable regional systems or whether it is becoming more integrated. Community drift across snapshots is used to evaluate structural stability and to detect emergent alignments in global migration.
+
+The final analytical component is explanatory modeling. Regression models link bilateral flow intensity to origin and destination characteristics, including GDP, population, unemployment, conflict exposure, climate risk, and visa openness. This modeling step is essential because it moves the analysis beyond descriptive structure to interpret the drivers behind corridor intensity. In effect, the project asks: when a route strengthens, is that due to economic pull, humanitarian push, or policy facilitation?
+
+Overall, this introduction positions the report as a study of migration systems rather than isolated corridors. It emphasizes the need for a network-based view, it explains the project contributions, and it makes clear that the goal is to generate insights useful for both researchers and policy practitioners. The remainder of the report follows this structure by describing the data and preprocessing, detailing methodology, presenting results, and drawing implications for migration governance.
 
 \chapter{Problem Statement and Objectives}
 \section{Problem Statement}
