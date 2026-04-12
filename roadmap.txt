@@ -1,0 +1,46 @@
+Project Roadmap: Global Migration Network Analysis
+
+1. Initial Setup
+- Created a Python virtual environment in the workspace.
+- Installed required libraries such as pandas, numpy, scikit-learn, networkx, matplotlib, seaborn, and python-louvain.
+
+2. Data Inspection and Cleaning
+- Inspected the UN DESA Excel migration dataset for sheet structure and missing values.
+- Converted portions of the Excel data into CSV and created helper scripts for EDA.
+- Built a master migration dataset pipeline to clean and standardize bilateral migration flows.
+
+3. Exploratory Data Analysis (EDA)
+- Generated summary tables and EDA output files under `eda_outputs/`.
+- Analyzed country-level migration flows, top destinations, top origins, and year-wise summaries.
+- Created visualization-ready outputs and saved summary CSVs.
+
+4. Network Analysis
+- Built dynamic directed graphs for 8 snapshot years (1990, 1995, 2000, 2005, 2010, 2015, 2020, 2024/2025).
+- Computed network centrality metrics including in-degree, out-degree, betweenness, and PageRank.
+- Saved centrality CSVs and generated simplified network visualizations.
+
+5. Community Detection
+- Implemented community detection using Louvain and fallback NetworkX methods.
+- Produced modularity Q tables, NMI/ARI comparisons between consecutive years, and Jaccard drift analyses.
+- Exported community membership tables and stability charts.
+
+6. Regression Modeling
+- Built regression features from the cleaned dataset, including lag-style flow statistics and year indexing.
+- Trained Linear, Ridge, Lasso, and Random Forest models.
+- Exported coefficient tables, R² comparisons, and VIF diagnostics.
+
+7. Dashboard and Report Generation
+- Created dashboard-ready CSVs and screenshot exports for five dashboards.
+- Prepared Power BI spec guidance and report documents.
+- Built a LaTeX report and generated PDF output.
+
+8. Git Integration and Final Submission
+- Committed all work to the repository with commit message "commit 2 final submission".
+- Pushed the final submission to GitHub.
+
+Important files:
+- `final_project_report.pdf`
+- `network_science_project_report.pdf`
+- `final_project_report.tex`
+- `deliverables_outputs/`
+- `roadmap.txt`

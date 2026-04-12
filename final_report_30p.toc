@@ -1,0 +1,43 @@
+\contentsline {chapter}{Executive Summary}{5}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Introduction}{6}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Problem Statement and Objectives}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Problem Statement}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Objectives}{7}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Dataset and Preprocessing}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Data Sources}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Preprocessing Workflow}{8}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Snapshot Summary}{8}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Exploratory Analysis}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Top Destinations (2024)}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Top Origins (2024)}{9}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Top Corridors (2024)}{10}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Methodology}{11}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Network Model}{11}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Pipeline Flow Diagram}{12}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Centrality Metrics}{12}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Community Detection and Stability}{12}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Custom Metric: Migration Influence Score (MIS)}{12}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Regression Modeling}{13}{section.5.6}%
+\contentsline {chapter}{\numberline {6}Results and Discussion}{14}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Key Findings}{14}{section.6.1}%
+\contentsline {chapter}{\numberline {7}Centrality Analysis (Visuals and Interpretation)}{15}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Degree Centrality}{15}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Betweenness Centrality}{16}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Closeness Centrality}{17}{section.7.3}%
+\contentsline {section}{\numberline {7.4}PageRank Centrality}{18}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Network Visualization (Community Structure)}{19}{section.7.5}%
+\contentsline {chapter}{\numberline {8}Case Study: Syria $\rightarrow $ T\"urkiye}{20}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Visual Outputs}{21}{chapter.9}%
+\contentsline {section}{\numberline {9.1}5-Year Interval Visualizations}{21}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Top Corridors per Interval}{22}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Final Collage (All Visuals Summary)}{26}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Major Corridors Map}{27}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Dashboard Screenshots}{28}{section.9.5}%
+\contentsline {chapter}{\numberline {10}Limitations and Future Work}{31}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Limitations}{31}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Future Work}{31}{section.10.2}%
+\contentsline {chapter}{\numberline {11}Conclusion}{32}{chapter.11}%
+\contentsline {chapter}{\numberline {12}References}{33}{chapter.12}%
+\contentsline {chapter}{\numberline {A}Appendix A: Algorithm Summary}{34}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Appendix B: Regression Features}{35}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Appendix C: Output Artifacts}{36}{appendix.C}%

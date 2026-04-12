@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.10)  9 APR 2026 21:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.10)  10 APR 2026 18:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -204,56 +204,132 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen154
 \Gm@dimlist=\toks18
 )
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen155
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen156
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count276
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count277
+\leftroot@=\count278
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count279
+\DOTSCASE@=\count280
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen157
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count281
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count282
+\dotsspace@=\muskip17
+\c@parentequation=\count283
+\dspbrk@lvl=\count284
+\tag@help=\toks20
+\row@=\count285
+\column@=\count286
+\maxfields@=\count287
+\andhelp@=\toks21
+\eqnshift@=\dimen158
+\alignsep@=\dimen159
+\tagshift@=\dimen160
+\tagwidth@=\dimen161
+\totwidth@=\dimen162
+\lineht@=\dimen163
+\@envbody=\toks22
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count276
-\l__pdf_internal_box=\box51
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box53
 )
 (./final_project_report.aux)
 \openout1 = `final_project_report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count277
-\scratchdimen=\dimen155
-\scratchbox=\box52
-\nofMPsegments=\count278
-\nofMParguments=\count279
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count280
-\MPscratchDim=\dimen156
-\MPnumerator=\count281
-\makeMPintoPDFobject=\count282
-\everyMPtoPDFconversion=\toks20
+\scratchcounter=\count289
+\scratchdimen=\dimen164
+\scratchbox=\box54
+\nofMPsegments=\count290
+\nofMParguments=\count291
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count292
+\MPscratchDim=\dimen165
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
+\everyMPtoPDFconversion=\toks25
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 11.
+Package hyperref Info: Link coloring OFF on input line 12.
 
 (./final_project_report.out) (./final_project_report.out)
 \@outlinefile=\write3
@@ -294,111 +370,110 @@ Package hyperref Info: Link coloring OFF on input line 11.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 13.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 13.
 
-Overfull \hbox (69.20795pt too wide) in paragraph at lines 25--28
+Overfull \hbox (69.20795pt too wide) in paragraph at lines 35--38
 \OT1/cmr/m/n/12 In-ter-na-tional Mi-grant Stock 2024 Ex-cel file (un-desa[]pd[]
 2024[]ims[]stock[]by[]sex[]destination[]and[]origin.xlsx) 
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 57.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 57.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 57.
- [2]
-Overfull \hbox (7.75392pt too wide) in paragraph at lines 77--78
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Overfull \hbox (7.75392pt too wide) in paragraph at lines 87--88
 []\OT1/cmr/bx/n/12 Community De-tec-tion: \OT1/cmr/m/n/12 Lou-vain (python-louv
 ain), Lei-den (lei-de-nalg, igraph), Girvan-
  []
 
-[3]
+[3] [4]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 129.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rightarrow' on input line 129.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 129.
+
+[5]
 <deliverables_outputs/powerbi_exports/screenshots/dashboard_01_overview.png, id
-=82, 1011.78pt x 650.43pt>
+=118, 1011.78pt x 650.43pt>
 File: deliverables_outputs/powerbi_exports/screenshots/dashboard_01_overview.pn
 g Graphic file (type png)
 <use deliverables_outputs/powerbi_exports/screenshots/dashboard_01_overview.png
 >
 Package pdftex.def Info: deliverables_outputs/powerbi_exports/screenshots/dashb
-oard_01_overview.png  used on input line 107.
+oard_01_overview.png  used on input line 158.
 (pdftex.def)             Requested size: 375.80544pt x 241.58826pt.
 <deliverables_outputs/powerbi_exports/screenshots/dashboard_02_corridors.png, i
-d=84, 1156.32pt x 505.89pt>
+d=120, 1156.32pt x 505.89pt>
 File: deliverables_outputs/powerbi_exports/screenshots/dashboard_02_corridors.p
 ng Graphic file (type png)
 <use deliverables_outputs/powerbi_exports/screenshots/dashboard_02_corridors.pn
 g>
 Package pdftex.def Info: deliverables_outputs/powerbi_exports/screenshots/dashb
-oard_02_corridors.png  used on input line 113.
+oard_02_corridors.png  used on input line 164.
 (pdftex.def)             Requested size: 375.80544pt x 164.4123pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 <deliverables_outputs/powerbi_exports/screenshots/dashboard_03_temporal.png, id
-=85, 1011.78pt x 650.43pt>
+=121, 1011.78pt x 650.43pt>
 File: deliverables_outputs/powerbi_exports/screenshots/dashboard_03_temporal.pn
 g Graphic file (type png)
 <use deliverables_outputs/powerbi_exports/screenshots/dashboard_03_temporal.png
 >
 Package pdftex.def Info: deliverables_outputs/powerbi_exports/screenshots/dashb
-oard_03_temporal.png  used on input line 119.
+oard_03_temporal.png  used on input line 170.
 (pdftex.def)             Requested size: 375.80544pt x 241.58826pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <deliverables_outputs/powerbi_exports/screenshots/dashboard_04_communities.png,
- id=86, 1156.32pt x 505.89pt>
+ id=122, 1156.32pt x 505.89pt>
 File: deliverables_outputs/powerbi_exports/screenshots/dashboard_04_communities
 .png Graphic file (type png)
 <use deliverables_outputs/powerbi_exports/screenshots/dashboard_04_communities.
 png>
 Package pdftex.def Info: deliverables_outputs/powerbi_exports/screenshots/dashb
-oard_04_communities.png  used on input line 125.
+oard_04_communities.png  used on input line 176.
 (pdftex.def)             Requested size: 375.80544pt x 164.4123pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <deliverables_outputs/powerbi_exports/screenshots/dashboard_05_regression.png, 
-id=87, 1011.78pt x 650.43pt>
+id=123, 1011.78pt x 650.43pt>
 File: deliverables_outputs/powerbi_exports/screenshots/dashboard_05_regression.
 png Graphic file (type png)
 <use deliverables_outputs/powerbi_exports/screenshots/dashboard_05_regression.p
 ng>
 Package pdftex.def Info: deliverables_outputs/powerbi_exports/screenshots/dashb
-oard_05_regression.png  used on input line 131.
+oard_05_regression.png  used on input line 182.
 (pdftex.def)             Requested size: 375.80544pt x 241.58826pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[4 <./deliverables_outputs/powerbi_exports/screenshots/dashboard_01_overview.pn
-g>] [5 <./deliverables_outputs/powerbi_exports/screenshots/dashboard_02_corrido
-rs.png> <./deliverables_outputs/powerbi_exports/screenshots/dashboard_03_tempor
-al.png>] [6 <./deliverables_outputs/powerbi_exports/screenshots/dashboard_04_co
-mmunities.png> <./deliverables_outputs/powerbi_exports/screenshots/dashboard_05
+[6 <./deliverables_outputs/powerbi_exports/screenshots/dashboard_01_overview.pn
+g> <./deliverables_outputs/powerbi_exports/screenshots/dashboard_02_corridors.p
+ng>] [7 <./deliverables_outputs/powerbi_exports/screenshots/dashboard_03_tempor
+al.png> <./deliverables_outputs/powerbi_exports/screenshots/dashboard_04_commun
+ities.png>] [8 <./deliverables_outputs/powerbi_exports/screenshots/dashboard_05
 _regression.png>] (./final_project_report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `final_project_report.out' has not changed.
-(rerunfilecheck)             Checksum: E34DC75021FCE24C87FF47BB89393777;1947.
+(rerunfilecheck)             Checksum: 71920060239329F17A71D3352E0AB0D7;3027.
  ) 
 Here is how much of TeX's memory you used:
- 8887 strings out of 476182
- 140045 string characters out of 5795595
- 1932975 words of memory out of 5000000
- 30785 multiletter control sequences out of 15000+600000
- 563614 words of font info for 54 fonts, out of 8000000 for 9000
+ 9639 strings out of 476182
+ 150175 string characters out of 5795595
+ 1931975 words of memory out of 5000000
+ 31505 multiletter control sequences out of 15000+600000
+ 565578 words of font info for 62 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,6n,79p,308b,508s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,352b,526s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/jas/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share
@@ -407,10 +482,10 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmti12.pfb>
-Output written on final_project_report.pdf (6 pages, 991711 bytes).
+Output written on final_project_report.pdf (8 pages, 997049 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
- 120 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
- 130 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 196 PDF objects out of 1000 (max. 8388607)
+ 159 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 186 words of extra memory for PDF output out of 10000 (max. 10000000)
 
